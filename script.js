@@ -80,7 +80,7 @@ function resetGame(){
     charIndex = mistakes = isTyping = 0;
     timeTag.innerText = timeLeft;
     mistakeTag.innerText = mistakes;
-    wpm.innerText = 0;
+    wpmTag.innerText = 0;
     cpmTag.innerText = 0;
 }
 
